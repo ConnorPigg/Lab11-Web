@@ -3,7 +3,7 @@ h1 {
 }
 .gnag {
   color: #ff0;
-}
-.gnag.sets {
-  color: #0ff;
+  .sets {
+    color: #0ff;
+  }
 }
