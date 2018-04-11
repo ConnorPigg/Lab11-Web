@@ -1,9 +1,9 @@
 h1 {
     color: #e84a27;
 }
-.gnag {
-  color: #ff0;
-  .sets {
-    color: #0ff;
+.sets {
+  color: #0ff;
+  p {
+    color: #000;
   }
 }
